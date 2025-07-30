@@ -10,7 +10,7 @@ int main(){
     printf("Digite um a letra: ");
     scanf("%c", &letra);
 
-    printf("A numera��o de %c na tabela ASCII � %d ", letra, letra);
+    printf("A numeração de %c na tabela ASCII é %d ", letra, letra);
 
 
     return 0;

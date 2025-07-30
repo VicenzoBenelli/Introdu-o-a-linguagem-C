@@ -21,11 +21,11 @@ int main(){
 int ImparOupar(int x){
 
     if (x % 2 == 0){
-        printf("\nO Numero é par");
+        printf("\nO Numero Ã© par");
         return 0;
     }
     else{
-        printf("\nO numero é impar");
+        printf("\nO numero Ã© impar");
         return 1;
     }
 }

@@ -21,7 +21,7 @@ int main(){
     char letra_pos_incremento = incremento + letra;
 
     printf("\nValor do Numero + o incremento: %d", pos_incremento);
-    printf("\nIdentifica��o da Letra p�s incremento: %c", letra_pos_incremento);
+    printf("\nIdentificação da Letra pós incremento: %c", letra_pos_incremento);
 
   return 0; 
 }

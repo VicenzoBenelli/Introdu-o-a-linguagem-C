@@ -8,7 +8,7 @@ void Incremento(){
    i++;
    x++;
    
-   printf("\nValor da variavel Est·tica na Chamada %d: %d ", i, x);
+   printf("\nValor da variavel Est√°tica na Chamada %d: %d ", i, x);
 
 }
 

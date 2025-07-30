@@ -8,15 +8,15 @@ int main(){
         
     float base, altura;
     
-    printf("\nDigite a base do Tri?ngulo: ");
+    printf("\nDigite a base do Triângulo: ");
     scanf("%f", &base);
 
-    printf("\nDigite a altura do Tri?ngulo: ");
+    printf("\nDigite a altura do Triângulo: ");
     scanf("%f", &altura);
 
     float area = (base*altura)/2;
      
-    printf("\nA ?rea do Tri?ngulo ?: %.1f", area); 
+    printf("\nA Àrea do Triângulo é: %.1f", area); 
 
     return 0;
 }
